@@ -41,9 +41,6 @@ public class ProdutosDAO {
             Logger.getLogger(ProdutosDAO.class.getName()).log(Level.SEVERE, null, ex);
         }
         
-        
-        
-        
     }
     
     public ArrayList<ProdutosDTO> listarProdutos(){
